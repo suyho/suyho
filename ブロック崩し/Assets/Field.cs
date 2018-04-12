@@ -9,6 +9,6 @@ public class Field : MonoBehaviour
     public void OnTriggerExit2D()
     {
         // 今のシーンを終わらせてGameシーンを読み込む
-        SceneManager.LoadScene("Game");
+        SceneManager.LoadScene("GameOver");
     }
 }

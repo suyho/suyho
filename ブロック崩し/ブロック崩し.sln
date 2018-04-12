@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ブロック崩し", "ブロック崩し.csproj", "{27D51E85-93A4-C823-EA57-CD96FE65938A}"
 EndProject
 Global
