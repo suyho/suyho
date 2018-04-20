@@ -1,0 +1,2 @@
+void initChars();
+int findSpaceChar();

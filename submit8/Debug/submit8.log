@@ -1,0 +1,13 @@
+﻿  wall.cpp
+  game.cpp
+  コードを生成中...
+  コンパイル中...
+  title.cpp
+  main.cpp
+c:\18pg1018\cbasics\submit8\main.cpp(11): warning C4326: 'main' の戻り値の型には、'int' を使用してください。'void' は使用できません
+  jiki.cpp
+  ground.cpp
+  gameover.cpp
+  gamechars.cpp
+  コードを生成中...
+  submit8.vcxproj -> C:\18PG1018\CBasics\Debug\submit8.exe
